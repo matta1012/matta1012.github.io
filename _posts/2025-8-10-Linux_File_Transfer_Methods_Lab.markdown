@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: HTB Linux File Transfer Methods Lab Report
 date: 2025-8-10
 categories: File_Tranfers
