@@ -32,6 +32,6 @@ gem "wdm", "~> 0.1", :platforms => [:mingw, :x64_mingw, :mswin]
 # do not have a Java counterpart.
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
-gem "minimal-mistakes-jekyll"
+#gem "jekyll", "~> 4.2"
 
-gem 'jekyll-include-cache'
+#gem "webrick" # if on Ruby 3+
